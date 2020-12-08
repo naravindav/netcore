@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="139004" started-at="2020-08-14T22:49:16 IST" finished-at="2020-08-14T22:51:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="139004" started-at="2020-08-14T22:49:16 IST" finished-at="2020-08-14T22:51:35 IST">
+      <class name="RegressionScripts.Regression">
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="openApplication" is-config="true" duration-ms="23596" started-at="2020-08-14T22:49:16 IST" finished-at="2020-08-14T22:49:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="inavalidLogin()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="inavalidLogin" duration-ms="16023" started-at="2020-08-14T22:49:39 IST" finished-at="2020-08-14T22:49:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inavalidLogin -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="closeApplication" is-config="true" duration-ms="1770" started-at="2020-08-14T22:49:55 IST" finished-at="2020-08-14T22:49:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="openApplication" is-config="true" duration-ms="11061" started-at="2020-08-14T22:49:57 IST" finished-at="2020-08-14T22:50:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="sendBugReport()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="sendBugReport" duration-ms="23121" started-at="2020-08-14T22:50:08 IST" finished-at="2020-08-14T22:50:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendBugReport -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="closeApplication" is-config="true" duration-ms="4307" started-at="2020-08-14T22:50:31 IST" finished-at="2020-08-14T22:50:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="openApplication" is-config="true" duration-ms="11182" started-at="2020-08-14T22:50:36 IST" finished-at="2020-08-14T22:50:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="validLoginLogout()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="validLoginLogout" duration-ms="13366" started-at="2020-08-14T22:50:47 IST" finished-at="2020-08-14T22:51:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginLogout -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="closeApplication" is-config="true" duration-ms="4653" started-at="2020-08-14T22:51:00 IST" finished-at="2020-08-14T22:51:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="openApplication" is-config="true" duration-ms="9510" started-at="2020-08-14T22:51:05 IST" finished-at="2020-08-14T22:51:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="verifyActitimeVersion()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="verifyActitimeVersion" duration-ms="15391" started-at="2020-08-14T22:51:14 IST" finished-at="2020-08-14T22:51:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyActitimeVersion -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:RegressionScripts.Regression@6321e813]" name="closeApplication" is-config="true" duration-ms="4740" started-at="2020-08-14T22:51:30 IST" finished-at="2020-08-14T22:51:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- RegressionScripts.Regression -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
